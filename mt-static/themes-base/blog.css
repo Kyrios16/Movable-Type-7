@@ -770,6 +770,8 @@ ul {
     padding: 2px 7px;
 }
 
+
+
 @media print {
     * {
         position: static ! important;
